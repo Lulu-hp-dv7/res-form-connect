@@ -1,4 +1,4 @@
-# res-form-connect
-Simple form of signup with dark design
+# Design Test UI Form Register
 
-at 08 January 2025
+Simple form of signup with dark design
+> at 08 January 2025
